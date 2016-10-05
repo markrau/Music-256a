@@ -1,0 +1,18 @@
+﻿  MainComponent.cpp
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\sine.h(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(231): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(234): warning C4456: declaration of 'i' hides previous local declaration
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(229): note: see declaration of 'i'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(235): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(239): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(276): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(278): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(300): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw1\basicaudio\source\maincomponent.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BasicAudio.vcxproj -> C:\Users\Mark Rau\Documents\Stanford Courses\Fall 2016\Music 256a\HW1\BasicAudio\Builds\VisualStudio2015\Debug\BasicAudio.exe
+  BasicAudio.vcxproj -> Debug\\BasicAudio.pdb (Full PDB)
